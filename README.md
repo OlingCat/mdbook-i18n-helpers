@@ -50,7 +50,7 @@ each release.
 Run
 
 ```shell
-$ cargo install mdbook-tera-backend
+$ cargo install mdbook-tera
 ```
 
 ## Contact
